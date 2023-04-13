@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,N as h}from"./chunks/framework.f31ee8c2.js";const f=JSON.parse('{"title":"@efe-plus/docs","description":"","frontmatter":{},"headers":[],"relativePath":"CHANGELOG.md"}'),s={name:"CHANGELOG.md"},l=h("",7),o=[l];function c(n,r,i,d,p,_){return e(),t("div",null,o)}const m=a(s,[["render",c]]);export{f as __pageData,m as default};
